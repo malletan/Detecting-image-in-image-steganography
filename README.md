@@ -32,28 +32,28 @@ such as the SRM combined with support vector machines, which attains over $99\%$
 
 [^1]: Junpeng Jing, Xin Deng, Mai Xu, Jianyi Wang, and
 Zhenyu Guan, “Hinet: Deep image hiding by invertible
-network,” in Proc. of the IEEE/CVF international
-conference on computer vision, 2021.
+network,” *in Proc. of the IEEE/CVF international
+conference on computer vision*, 2021.
 
 [^2]: Hang Yang, Yitian Xu, Xuhua Liu, and Xiaodong Ma,
 “Pris: Practical robust invertible network for image
-steganography,” Engineering Applications of Artificial
-Intelligence, vol. 133, 2024.
+steganography,” *Engineering Applications of Artificial
+Intelligence, vol. 133*, 2024.
 
 [^3]: Zhenyu Guan, Junpeng Jing, Xin Deng, Mai Xu,
 Lai Jiang, Zhou Zhang, and Yipeng Li, “Deepmih:
 Deep invertible network for multiple image hiding,”
-IEEE Transactions on Pattern Analysis and Machine
-Intelligence, vol. 45, 2022.
+*IEEE Transactions on Pattern Analysis and Machine
+Intelligence, vol. 45*, 2022.
 
 [^4]: Shumeet Baluja, “Hiding images within images,”
-IEEE transactions on pattern analysis and machine
-intelligence, vol. 42, 2019.
+*IEEE transactions on pattern analysis and machine
+intelligence, vol. 42*, 2019.
 
 [^5]: Xinyu Weng, Yongzhi Li, Lu Chi, and Yadong Mu,
 “High-capacity convolutional video steganography with
-temporal residual modeling,” in Proc. of the 2019 on
-international conference on multimedia retrieval, 2019.
+temporal residual modeling,” *in Proc. of the 2019 on
+international conference on multimedia retrieval*, 2019.
 
 <a name="CitingUs"></a>
 ## Citing our paper
