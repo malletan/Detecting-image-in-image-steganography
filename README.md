@@ -58,10 +58,14 @@ international conference on multimedia retrieval*, 2019.
 
 ## Generating stego images
 
-For generating stego images, you can look at the Github page of @[HiNet](https://github.com/TomTomTommi/HiNet).
-The GitHub page "@[Hiding-images-within-images](https://github.com/albblgb/Hiding-images-within-images)" also proposes several models for performing image in image steganography.
+For generating stego images, you can look at the Github page of [HiNet](https://github.com/TomTomTommi/HiNet).
+The GitHub page "[Hiding-images-within-images](https://github.com/albblgb/Hiding-images-within-images)" also proposes several models for performing image in image steganography.
 
 ## Generating Features
+
+### SPAM features 
+
+SPAM features can be generated using the ```generate_spam.py``` script.
 
 ## Training and evaluation
 
