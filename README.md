@@ -55,6 +55,10 @@ intelligence, vol. 42*, 2019.
 temporal residual modeling,” *in Proc. of the 2019 on
 international conference on multimedia retrieval*, 2019.
 
+##  Requirements
+
+You can find the required dependencies in the ```requirements.txt``` file.
+
 
 ## Generating stego images
 
@@ -66,6 +70,14 @@ The GitHub page "[Hiding-images-within-images](https://github.com/albblgb/Hiding
 ### SPAM features 
 
 SPAM features can be generated using the ```generate_spam.py``` script.
+To make it work, you only need to set the correct pathes where your images are (```line 451``` and ```line 459```),
+and specify where you want to save your features (```line 452``` and ```line 460```).
+
+### Moment-based features
+
+The general method presented in the paper can be explored in the ```ica_moment.ipynb``` notebook.
+It offers all the tools to perform the ICA on the Haar Wavelet decomposition, 
+then extract the PCA subband, and compute the 1st, 2nd, 3rd, and 4th order moments.
 
 ## Training and evaluation
 
