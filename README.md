@@ -9,7 +9,7 @@
 [![](https://img.shields.io/badge/Bibtex-0C0C0C?style=for-the-badge)](#CitingUs)   [![](https://img.shields.io/badge/Article-2E86C1?style=for-the-badge)](https://arxiv.org/abs/2603.11876)  
 
 <p align="center">
-  <img src="banner_compressed.svg" />
+  <img src="banner_compressed.pdf" />
 </p>
 
 ### Antoine Mallet & Patrick Bas
