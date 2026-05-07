@@ -17,7 +17,7 @@
 <br/>
 
 *Abstract : This paper investigates the detectability of popular image-in-image steganography 
-schemes[^1,^2,^3,^4,^5].
+schemes[^1] [^2,^3,^4,^5].
 In this paradigm, the payload is usually an image of the same size as the Cover image, 
 leading to very high embedding rates.
 We first show that the embedding yields a mixing process that is easily identifiable by independent component analysis.
