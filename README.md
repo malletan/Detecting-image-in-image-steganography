@@ -83,11 +83,19 @@ and specify where you want to save your features (```line 452``` and ```line 460
 ### Moment-based features
 
 The general method presented in the paper can be explored in the ```ica_moment.ipynb``` notebook.
-It offers all the tools to perform the ICA on the Haar Wavelet decomposition, 
-then extract the PCA subband, and compute the 1st, 2nd, 3rd, and 4th order moments.
+It offers all the tools to perform:
+
+ - the ICA on the Haar Wavelet decomposition.
+ - the extraction of the PCA subband.
+ - the computation of the 1st, 2nd, 3rd, and 4th order moments.
 
 ## Training and evaluation
 
+The evaluation is conducted in the ```detection.ipynb``` notebook.
+It allows to:
+ 
+ - Train an SVM on both kind of features
+ - Perform the grid search on the choice of ICA principal components. 
 
 
 
