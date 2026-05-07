@@ -9,7 +9,7 @@
 [![](https://img.shields.io/badge/Bibtex-0C0C0C?style=for-the-badge)](#CitingUs)   [![](https://img.shields.io/badge/Article-2E86C1?style=for-the-badge)](https://arxiv.org/abs/2603.11876)  
 
 <p align="center">
-  <img src="https://github.com/malletan/Detecting-image-in-image-steganography/blob/main/banner_compressed.pdf" />
+  <img src="banner.svg" />
 </p>
 
 ### Antoine Mallet & Patrick Bas
@@ -73,4 +73,6 @@ international conference on multimedia retrieval*, 2019.
 ```
 ## Acknowledgements
 
-Our experiments were possible thanks to computing means of IDRIS through the resource allocation 2021- AD011013285 assigned by GENCI. This work received funding from the European Union’s Horizon 2020 research and innovation program under grant agreement No 101021687 (project “UNCOVER”) and the French Defense & Innovation Agency. The work of Tomas Pevny was supported by Czech Ministry of Education 19-29680L.
+This work received funding from the French government grant
+managed by the Agence Nationale de la Recherche under the
+France 2030 program, reference ANR22-PECY-0011.
