@@ -25,10 +25,10 @@ We then propose a simple, interpretable steganalysis method based on the first f
 moments of the independent components estimated from the wavelet decomposition of the images, 
 which are used to distinguish between the distributions of Cover and Stego components.
 Experimental results demonstrate the efficiency of the proposed method, 
-with eight-dimensional input vectors attaining up to $84.6\%$ accuracy. 
+with eight-dimensional input vectors attaining up to **84.6\%** accuracy. 
 This vulnerability analysis is supported by two other facts: the use of keyless 
 extraction networks and the high detectability w.r.t. classical steganalysis methods, 
-such as the SRM combined with support vector machines, which attains over $99\%$ accuracy.*
+such as the SRM combined with support vector machines, which attains over **99\%** accuracy.*
 
 [^1]: Junpeng Jing, Xin Deng, Mai Xu, Jianyi Wang, and
 Zhenyu Guan, “Hinet: Deep image hiding by invertible
