@@ -107,3 +107,17 @@ then extract the PCA subband, and compute the 1st, 2nd, 3rd, and 4th order momen
 This work received funding from the French government grant
 managed by the Agence Nationale de la Recherche under the
 France 2030 program, reference ANR22-PECY-0011.
+
+## ![CC BY 4.0](https://licensebuttons.net/l/by/4.0/88x31.png) License
+
+This work is licensed under the Creative Commons Attribution 4.0 International License (CC BY 4.0).
+
+You are free to:
+- Share — copy and redistribute the material in any medium or format
+- Adapt — remix, transform, and build upon the material for any purpose, even commercially
+
+Under the following terms:
+- Attribution — You must give appropriate credit, provide a link to the license, and indicate if changes were made.
+
+For more details, see the full license text:  
+https://creativecommons.org/licenses/by/4.0/
