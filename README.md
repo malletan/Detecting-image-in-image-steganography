@@ -2,7 +2,7 @@
 
 ## "On the Possible Detectability of Image-in-Image Steganography" 
 
-### released at @[ICIP'26](https://2026.ieeeicip.org/) (Tampere, Finland)
+### released at @[ICIP 2026](https://2026.ieeeicip.org/) (Tampere, Finland)
 
 ![](https://img.shields.io/badge/Official%20-Yes-1E8449.svg) ![](https://img.shields.io/badge/Topic%20-Image_Steganalysis-2E86C1.svg) ![visitors](https://visitor-badge.laobi.icu/badge?page_id=malletan.Detecting-image-in-image-steganography)
 
@@ -54,6 +54,21 @@ intelligence, vol. 42*, 2019.
 “High-capacity convolutional video steganography with
 temporal residual modeling,” *in Proc. of the 2019 on
 international conference on multimedia retrieval*, 2019.
+
+
+## Generating stego images
+
+For generating stego images, you can look at the Github page of @[HiNet](https://github.com/TomTomTommi/HiNet).
+The GitHub page "@[Hiding-images-within-images](https://github.com/albblgb/Hiding-images-within-images)" also proposes several models for performing image in image steganography.
+
+## Generating Features
+
+## Training and evaluation
+
+
+
+
+
 
 <a name="CitingUs"></a>
 ## Citing our paper
