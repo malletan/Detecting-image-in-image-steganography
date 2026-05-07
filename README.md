@@ -89,14 +89,21 @@ It offers all the tools to perform:
  - the extraction of the PCA subband.
  - the computation of the 1st, 2nd, 3rd, and 4th order moments.
 
-## Training and evaluation
+## Evaluation
+
+### Detection performance
 
 The evaluation is conducted in the ```detection.ipynb``` notebook.
 It allows to:
  
- - Train an SVM on both kind of features
- - Perform the grid search on the choice of ICA principal components. 
+ - Train and evaluate (with cross-validation) an SVM on both the 4-moment features
+ - Train and evaluate (with cross-validation) an SVM on both the SPAM features
 
+### Choosing two subbands
+
+The ```grid_search_subband_detection.py``` script performs a grid search between all pair of PC
+over the ICA to see which pair empirically yields the best detection performance. 
+The results can be used to choose the subbands used in the ```detection.ipynb``` evaluation. 
 
 
 

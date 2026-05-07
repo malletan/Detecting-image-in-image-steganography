@@ -444,24 +444,26 @@ def compute_SPAM(img_path):
 
 if __name__=="__main__":
     
-    n_img = 2_500
+    n_img = 10
 
     # Generating covers
 
     cover_path = "/data2/antoine/datasets/COCO/COCO_real_512" # Change to your cover image path
-    cover_save = "/dataset/SPAM/cover/"
+    cover_save = "dataset/cover/spam"
+    if not os.path.exists(cover_save): os.makedirs(cover_save)
     loc = sorted(listdir(cover_path))
 
     for i in tqdm(range(n_img)):
         spam = compute_SPAM(join(cover_path, loc[i]))
         np.save(join(cover_save, f"{i}.npy"), spam)
 
-    stego_path = "/data2/antoine/iminim_steg/dataset/COCO/stego/" # Change to your stego image path
-    stego_save = "/dataset/SPAM/hinet/"
+    stego_path = "/data2/antoine/Hinet/HiNet/image_COCO/steg/" # Change to your stego image path
+    stego_save = "dataset/hinet/spam"
+    if not os.path.exists(stego_save): os.makedirs(stego_save)
     los = sorted(listdir(stego_path))
 
     for i in tqdm(range(n_img)):
-        spam = compute_SPAM(join(cover_path, loc[i]))
-        np.save(join(cover_save, f"{i}.npy"), spam)
+        spam = compute_SPAM(join(stego_path, los[i]))
+        np.save(join(stego_save, f"{i}.npy"), spam)
 
     
